@@ -6,7 +6,7 @@
 ### <div align="center">I'm Gurshant, a full-time full-stack developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+##### <div align="center"> Fun fact: I use tabs over spaces  </div>  
   
 
 <br/>  
@@ -70,7 +70,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gurshant&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gurshant&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div>  
 
 <br/>  
 
@@ -104,12 +104,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gurshant&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
