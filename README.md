@@ -3,10 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Gurshant, a full-time full-stack developer 👨‍💻 working remotely since 2019 🚀</div>  
-  
-
-##### <div align="center"> Fun fact: I use tabs over spaces  </div>  
+### <div align="center">I'm Gurshant, a full-stack developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 <br/>  
