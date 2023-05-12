@@ -42,7 +42,7 @@
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/laravel.svg" alt="Laravel" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/mysql.svg" alt="MySQL" height="50" /></a>  
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/rails.svg" alt="Ruby on Rails" height="50" /></a>
-<a href="https://grails.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/grails_logo.svg" alt="Ruby on Rails" height="50" /></a>  
+<a href="https://grails.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/grails_logo.svg" alt="Grails" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
