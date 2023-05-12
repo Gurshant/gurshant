@@ -51,9 +51,9 @@
 
 ### DevOps  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/amazonwebservices.svg" alt="AWS" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/aws.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/linux.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/git-scm.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/git.svg" alt="Git" height="50" /></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/jenkins.svg" alt="Jenkins" height="50" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/webpack.svg" alt="Webpack" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gurshant/gurshant/blob/main/icons/figma.svg" alt="Figma" height="50" /></a>  
